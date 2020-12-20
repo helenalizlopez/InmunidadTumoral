@@ -1,0 +1,12 @@
+name: heatmap_mcp
+title: heatmap_mcp
+username:
+account: heatmapwithmcpcountergene
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3411745
+bundleId: 4000869
+url: https://heatmapwithmcpcountergene.shinyapps.io/heatmap_mcp/
+when: 1608201132.82313
+asMultiple: FALSE
+asStatic: FALSE
