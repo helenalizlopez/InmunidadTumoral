@@ -1,0 +1,13 @@
+name: MCPResult
+title: MCPResult
+username:
+account: borkadd
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3420947
+bundleId: 4013090
+url: https://borkadd.shinyapps.io/MCPResult/
+when: 1608507965.56523
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: input_MCPcounter_2.csv|SAMPLE_INFO.txt
